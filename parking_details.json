@@ -1,0 +1,77 @@
+{
+    "user": [
+        {
+            "Vehicle": "Car",
+            "num_of_vehicle": 1,
+            "Vehicle_Number": "Del34",
+            "Duration": 2,
+            "Date": "2022-02-01",
+            "Amount": 140,
+            "Token": 114,
+            "Slot": "Compact_spot"
+        },
+        {
+            "Vehicle": "car",
+            "num_of_vehicle": 1,
+            "Vehicle_Number": "jnk",
+            "Duration": 3,
+            "Date": "2022-02-01",
+            "Amount": 210,
+            "Token": 14,
+            "Slot": "Large_spot"
+        },
+        {
+            "Vehicle": "bike",
+            "num_of_vehicle": 1,
+            "Vehicle_Number": "jnk",
+            "Duration": 3,
+            "Date": "2022-02-01",
+            "Amount": 210,
+            "Token": 134,
+            "Slot": "Large_spot"
+        },
+        {
+            "Vehicle": "Car",
+            "num_of_vehicle": 1,
+            "Vehicle_Number": "Del34",
+            "Duration": 2,
+            "Date": "2022-02-01",
+            "Amount": 140,
+            "Token": 143,
+            "Slot": "Compact_spot"
+        },
+        {
+            "Name": "Megha",
+            "Vehicle": "bike",
+            "num_of_vehicle": 1,
+            "Vehicle_Number": "Dek3",
+            "Duration": 1,
+            "Date": "2022-02-02",
+            "Amount": 70,
+            "Token": 40,
+            "Slot": "Motor_bike"
+        },
+        {
+            "Name": "Megha",
+            "Vehicle": "bike",
+            "num_of_vehicle": 1,
+            "Vehicle_Number": "Dek3",
+            "Duration": 1,
+            "Date": "2022-02-02",
+            "Amount": 70,
+            "Token": 1184,
+            "Slot": "Motor_bike"
+        },
+        {
+            "Name": "Sudha",
+            "Vehicle": "Bike",
+            "num_of_vehicle": 1,
+            "Vehicle_Number": "DEl32",
+            "Duration": 2,
+            "Date": "2022-02-03",
+            "Amount": 100,
+            "Token": 101,
+            "Slot": "Motor_bike"
+        }
+    ]
+}
